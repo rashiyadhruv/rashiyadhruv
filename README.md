@@ -4,8 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Arcadia Webapp and Kreiva spa
-- 🌱 I’m currently lerning ML/AI
+- 🌱 I’m currently lerning ML/AI and Next.js
 - 👯 I’m looking to collaborate on web related projects
 - 🤔 I’m looking for help with ML/AI and DApp development
 - 💬 Ask me about web related technology, DSA, ML/AI and flutter
