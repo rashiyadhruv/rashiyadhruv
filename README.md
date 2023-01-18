@@ -10,6 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about web related technology, DSA, web3 and flutter
 - 📫 How to reach me: rashiyadhruv@gmail.com
 - ⚡ Fun fact: I love watching anime and reading manhwa
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashiyadhruv&theme=nightowl&layout=compact&hide=html)
-[![Dhruv's github stats](https://github-readme-stats.vercel.app/api?username=rashiyadhruv&theme=nightowl)](https://github.com/rashiyadhruv/github-readme-stats)
