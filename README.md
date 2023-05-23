@@ -8,7 +8,7 @@
 - 💻 Working on hackathon projects.
 - 📫 How to reach me: rashiyadhruv@gmail.com.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashiyadhruv&theme=dracula)
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashiyadhruv&show_icons=true&theme=dracula)
 
 **Technologies I worked on**
 <br>
