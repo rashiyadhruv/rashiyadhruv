@@ -1,3 +1,5 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frashiyadhruv&countColor=%23d9e3f0)
+
 ### Hello there 👋
 
 - 🔭 I’m Rashiya Dhruv.
