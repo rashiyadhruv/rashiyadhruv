@@ -4,8 +4,8 @@
 
 - 🔭 I’m Rashiya Dhruv.
 - 🎓 Currently, pursuing B.Tech in CSE.
-- 🌱 I’m currently learning Rust and Smartpy.
-- 👯 I’m looking to collaborate on Web3 based projects.
+- 🌱 I’m currently learning more about Devops and Gen AI.
+- 👯 I’m looking to collaborate on Web based projects.
 - 🔍 Looking for discussions on Web3 projects on EVM compatible chains and generative AI.
 - 💻 Working on hackathon projects.
 - 📫 How to reach me: rashiyadhruv@gmail.com.
